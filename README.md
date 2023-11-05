@@ -20,10 +20,6 @@ C:\ffmpeg-6.0\bin
 
 [PORTABLE](https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesrgan-ncnn-vulkan-20220424-windows.zip)
 
-# AUTOMATE FOR WINDOWS
-
-[DOWNLOAD](https://www.ffmpeg.org/download.html)
-
 # HOW TO RUN FOR WINDOWS
 
 EDIT & RUN SIMPLE
