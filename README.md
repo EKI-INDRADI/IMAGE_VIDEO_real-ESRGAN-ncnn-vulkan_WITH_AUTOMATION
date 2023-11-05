@@ -1,3 +1,43 @@
+# ----------------------------------------------------------
+
+# THANKS TO
+[xinntao](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)
+
+# FFMPEG
+
+[DOWNLOAD](https://www.ffmpeg.org/download.html)
+
+ADD USER ENV WINDOWS
+
+```sh
+
+PATH :
+C:\ffmpeg-6.0\bin
+
+```
+
+# MODEL & UPDATE PORTABLE
+
+[PORTABLE](https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesrgan-ncnn-vulkan-20220424-windows.zip)
+
+# AUTOMATE FOR WINDOWS
+
+[DOWNLOAD](https://www.ffmpeg.org/download.html)
+
+# HOW TO RUN FOR WINDOWS
+
+EDIT & RUN SIMPLE
+
+```sh
+
+run_all_video_4x.bat
+
+```
+
+# EKI INDRADI TESTED 20231109
+
+# ----------------------------------------------------------
+
 # Real-ESRGAN ncnn Vulkan
 
 ![CI](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan/workflows/CI/badge.svg)
